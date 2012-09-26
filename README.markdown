@@ -1,4 +1,4 @@
-#LazyCUHK
+#LLLLLLazyCUHK
 Automatic login to CUHK services including ResNet, wifi, library, mycuhk, ERGWAVE,etc. (unofficial)
 
 ##Installation
